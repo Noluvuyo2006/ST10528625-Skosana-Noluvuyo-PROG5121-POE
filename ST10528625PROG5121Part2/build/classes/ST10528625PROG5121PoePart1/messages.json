@@ -1,0 +1,18 @@
+[
+  {
+    "messageID": "0850033687",
+    "messageNumber": 1,
+    "recipient": "+27612345678",
+    "message": "Complete your assignment.",
+    "messageHash": "08:1:COMPLETEASSIGNMENT",
+    "messageStatus": "Sent"
+  },
+  {
+    "messageID": "0632396119",
+    "messageNumber": 2,
+    "recipient": "+27612534678",
+    "message": "It is due today.",
+    "messageHash": "06:2:ITTODAY",
+    "messageStatus": "Sent"
+  }
+]
