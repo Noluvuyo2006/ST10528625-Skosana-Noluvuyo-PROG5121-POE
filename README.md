@@ -1,7 +1,7 @@
 # PROG5121POE
 ## PART 1:
 Created a new java class for registration and is the main class and I named it NoRegClass as well as a unit test.
-I added a JSon file.
+I added a JSON file.
 I created a new repository so I can add my NetBeans project. 
 I created and uploaded a video on YouTube explaining my code (Part 1).
 ## PART 2:
