@@ -2,6 +2,7 @@
 ## PART 1:
 Created a new java class for registration and is the main class and I named it NoRegClass as well as a unit test.
 I created a new repository so I can add my NetBeans project. 
+I created and uploaded a video on YouTube explaining my code.
 ## PART 2:
 Created a new java class for the user's login details and I named it login and a unit test.
 I linked my login class to NoRegClass class. 
