@@ -9,3 +9,4 @@ Created a new java class and I named it StoredMessages and also a unit test to t
 I linked my StoredMessages class to my login class which i also linked to my main class (NoRegClass).
 In total I have 3 java classes and 3 unit tests.
 All three of my unit tests are 100%.
+This project really helped me gain some knowledge on how to combine all the learning units and use them effectively.
