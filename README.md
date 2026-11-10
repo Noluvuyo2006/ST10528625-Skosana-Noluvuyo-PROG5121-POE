@@ -6,3 +6,4 @@ Created a new java class for the user's login details and I named it login and a
 I linked my login class to NoRegClass class.
 ## POE:
 Created a new java class and I named it StoredMessages and also a unit test to test 5 messages given in the POE instructions. 
+I linked my StoredMessages class to my login class which i also linked to my main class (NoRegClass).
