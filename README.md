@@ -15,4 +15,5 @@ I linked my StoredMessages class to my login class which i also linked to my mai
 I uploaded my NetBeans project part 3.
 In total I have 3 java classes and 3 unit tests.
 All three of my unit tests are 100%.
+I created and uploaded a video on YouTube (POE).
 This project really helped me gain some knowledge on how to combine all the learning units and use them effectively.
