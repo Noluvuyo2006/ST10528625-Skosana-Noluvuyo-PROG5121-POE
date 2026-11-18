@@ -10,7 +10,7 @@ I linked my login class to NoRegClass class.
 I added my NetBeans project on GitHub.
 I created and uploaded a video on YouTube explaining my code (Part 2).
 ## POE:
-Created a new java class and I named it StoredMessages and also a unit test to test 5 messages given in the POE instructions. 
+Created a new java class and I named it StoredMessages and also a unit test to test 6 messages given in the POE instructions. 
 I linked my StoredMessages class to my login class which i also linked to my main class (NoRegClass).
 I uploaded my NetBeans project part 3.
 In total I have 3 java classes and 3 unit tests.
